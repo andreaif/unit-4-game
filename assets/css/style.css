@@ -1,0 +1,45 @@
+body{
+    background-image: url("../images/background.png");
+   
+
+}
+.header{
+    background-color: orange;
+    color: white;
+    font-size: 60;
+    margin-bottom: 10;
+    padding: 5;
+}
+
+div.box{
+    background-color: antiquewhite;
+    color: green;
+    font-weight: bold;
+    padding: 5;
+}
+
+.myScore, .finalScore{
+    background-color: darkgreen; 
+    width: 40%;
+}
+.finalScore{
+    height: 50;
+
+}
+.target{
+    background-color:lightgreen; 
+    margin: 15;  
+}
+.tablescore{
+    background-color: lightblue;
+}
+
+.target, .tablescore{
+    height: 50px;
+    width: 50px;
+}
+.myScore, .finalScore, .target, .tablescore{
+    color: white;
+    margin-top: 10;
+ 
+}
